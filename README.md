@@ -8,6 +8,7 @@ You will be able to find  in the following lines the code for the Challenge 2 Th
 
 
 
+
 Sub stockname6_AllWorksheets()
     Dim ws As Worksheet
     For Each ws In ThisWorkbook.Sheets
@@ -137,3 +138,9 @@ Sub stockname6(ws As Worksheet)
         End If
     Next i
 End Sub
+
+
+![Result 2019](https://github.com/jrobertofg/VBA-Challenge/assets/27827806/19dd0542-0f49-42d9-a4c5-414069b35e65)
+![Result 2018](https://github.com/jrobertofg/VBA-Challenge/assets/27827806/9bb253ec-256b-4239-aaf4-577cc16fc31c)
+![Result 2020](https://github.com/jrobertofg/VBA-Challenge/assets/27827806/de549dd5-3666-4f11-a327-d1d05821f341)
+
