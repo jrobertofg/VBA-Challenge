@@ -3,7 +3,7 @@ Challenge 2 (VBA)
 You will be able to find  in the following lines the code for the Challenge 2 The CODE STARTS FROM LINE 11
 
 
-
+Code was a work during the class, 
 
 
 
@@ -139,8 +139,10 @@ Sub stockname6(ws As Worksheet)
     Next i
 End Sub
 
+SOURCES
 
-![Result 2019](https://github.com/jrobertofg/VBA-Challenge/assets/27827806/19dd0542-0f49-42d9-a4c5-414069b35e65)
-![Result 2018](https://github.com/jrobertofg/VBA-Challenge/assets/27827806/9bb253ec-256b-4239-aaf4-577cc16fc31c)
-![Result 2020](https://github.com/jrobertofg/VBA-Challenge/assets/27827806/de549dd5-3666-4f11-a327-d1d05821f341)
+https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/format-function-visual-basic-for-applications
+https://learn.microsoft.com/en-us/office/vba/api/excel.colorformat
+Chat gpt iterative working process with questions and coding
+
 
